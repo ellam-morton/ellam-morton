@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm an incoming masters student in the astronomy department at Wesleyan University.
+I'm an incoming master's student in the astronomy department at Wesleyan University. I got a BA in physics from Reed College in Portland, OR, where my thesis studied carbon monoxide excitation around inclined AGN outflows.
 
 <!--
 **ellam-morton/ellam-morton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
