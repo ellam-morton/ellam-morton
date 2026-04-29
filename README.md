@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm an incoming masters student in the astronomy department at Wesleyan University.
+
 <!--
 **ellam-morton/ellam-morton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
